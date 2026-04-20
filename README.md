@@ -327,9 +327,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
 
@@ -338,7 +335,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Built with [Lovable](https://lovable.dev/) platform
 - UI components from [Shadcn/UI](https://ui.shadcn.com/)
 - Pose detection powered by [TensorFlow.js](https://www.tensorflow.org/js)
 
